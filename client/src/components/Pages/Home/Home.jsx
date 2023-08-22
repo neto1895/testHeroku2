@@ -8,12 +8,12 @@ import {
 import { BiPencil } from "react-icons/bi";
 import { MdWavingHand } from "react-icons/md";
 import ActiveJobsCard from "../../UI/ActiveJobsCard";
-import "../Home/HomeStyles.css";
+//import "../Home/HomeStyles.css";
 import Pana1 from '../../../assets/images/Pana-1.png';
 import Pana2 from '../../../assets/images/Pana-2.png';
 import Pana3 from '../../../assets/images/Pana-3.png';
 import Pana4 from '../../../assets/images/Pana-4.png';
-import "../Skills/SkillStyles.css";
+//import "../Skills/SkillStyles.css";
 
 const Home = (props) => {
   return (
