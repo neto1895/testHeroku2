@@ -15,7 +15,6 @@ import { BsLinkedin } from "react-icons/bs";
 import { BsFillCameraFill } from "react-icons/bs";
 
 import topBanerImg from "../../../assets/images/topBanerProfile.png"
-import profilePic from "../../../assets/images/user.webp"
 import EditProfile from './EditProfile';
 //import Posts from '../Posts/Posts';
 
@@ -80,7 +79,7 @@ const Profile = () => {
                 <div className='profileContainer'>
                     <div className="avatarImage overflow-hidden rounded-full w-32 h-32">
                         <img
-                            src={profilePic}
+                            src={profilePicEx}
                             alt="Circular Image"
                             className="w-full h-full object-cover" />
                     </div>
